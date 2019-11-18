@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29324.140
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MeetupWebAPI2", "MeetupWebAPI2\MeetupWebAPI2.csproj", "{02532917-AD8C-41FF-8676-88F688A86C9D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{02532917-AD8C-41FF-8676-88F688A86C9D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{02532917-AD8C-41FF-8676-88F688A86C9D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{02532917-AD8C-41FF-8676-88F688A86C9D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{02532917-AD8C-41FF-8676-88F688A86C9D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F6B1F688-FC79-4973-AE96-C438F92CDC6E}
+	EndGlobalSection
+EndGlobal
