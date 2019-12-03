@@ -1,0 +1,13 @@
+# Default values for meetup-app.
+# This is a YAML-formatted file.
+# Declare variables to be passed into your templates.
+
+replicaCount: 1
+api1:
+  image:
+    repository: api1
+    tag: 1
+api2:
+  image:
+    repository: api2
+    tag: 1
